@@ -1,0 +1,23 @@
+
+@font-face{
+	font-family: Myriad Pro;
+	src: url(MyriadPro-Regular.otf);
+}
+
+@font-face{
+	font-family: Segoe UI;
+	src: url(Segoe UI.ttf);
+}
+
+.navbar, .footer{
+	font-family:  Segoe UI, Calibri, sans-serif;
+}
+
+ .main{
+ 	font-family:  Segoe UI, Calibri, sans-serif;
+ }
+
+ .slider-text,
+ .slider-title{
+ 	font-family: Myriad Pro, calibri, sans-serif;
+ }
